@@ -1,0 +1,4 @@
+#Default to dev profile unless overridden
+spring:
+  profiles:
+    active: dev
